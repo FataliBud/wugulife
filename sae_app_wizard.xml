@@ -1,0 +1,8 @@
+<appwizard><introduction><name></name><author>五谷人生</author><icon></icon><homepage></homepage><description><![CDATA[　　五谷人生是旨在将传统医学的“药膳同源”的理念应用到现实生活中，让更多的人通过膳食疗养，起到强身健体的作用。
+　　食疗是一个古老的话题，也是一个潮流的话.]]></description></introduction><platform><services><service></service><service>Mysql</service></services><appconfig><tpl><![CDATA[
+name: <<appname>>
+version: <<version>>
+version: 1
+...
+
+]]></tpl></appconfig></platform><code><initScript>index.php</initScript></code></appwizard>

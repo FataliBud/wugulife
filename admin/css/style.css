@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+	border:0px;
+	color:#EEC591;
+	color:#000;
+	list-style-type: none;
+}
+.search_user
+{
+	margin: 5px;
+	margin-right: 280px;
+	text-align: right;
+}
+.usertable{
+	border: 1px;
+	color: #ffffff;
+
+}
+.usertable th,td{
+	border-color: #8B0A50;
+	color:#ffffff;
+}
+a{
+	font-family: sans-serif,Arial,"宋体";
+}
+a:link,a:visited{
+	text-decoration: none;
+}
+a:active{
+	text-decoration: underline;
+};
